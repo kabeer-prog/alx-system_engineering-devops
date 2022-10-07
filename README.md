@@ -1,3 +1,3 @@
 # alx-system_engineering-devops
 
-Alx Shell tasks
+Alx Shell and devops tasks
