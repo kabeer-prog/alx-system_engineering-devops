@@ -1,4 +1,8 @@
 # Postmortem
+![image](https://user-images.githubusercontent.com/77249754/199915046-83211abf-77a5-4d41-8f0f-af461ef83189.png)
+
+
+
 https://media.giphy.com/media/wRTOcDtr7RpmHIuINe/giphy.gif
 
 Upon the release of ALX's System Engineering & DevOps project 0x19,
