@@ -1,5 +1,6 @@
 # Postmortem
-<iframe src="https://giphy.com/embed/wRTOcDtr7RpmHIuINe" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/IN10medianetwork-nakul-akul-asuras-wRTOcDtr7RpmHIuINe">via GIPHY</a></p>
+https://media.giphy.com/media/wRTOcDtr7RpmHIuINe/giphy.gif
+
 Upon the release of ALX's System Engineering & DevOps project 0x19,
 approximately 06:00 West African Time (WAT) here in Nigeria, an outage occurred on an isolated
 Ubuntu 14.04 container running an Apache web server. GET requests on the server led to
